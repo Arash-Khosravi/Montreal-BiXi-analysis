@@ -3,4 +3,4 @@
 
 #Note: This project was delivered as project assignments for BrainStation's Data Science Diploma program and cannot be shared publicly.
 
- ![](images/money.png)
+ ![](images/bixi.png)
